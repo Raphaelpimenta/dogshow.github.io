@@ -1,0 +1,19 @@
+/* Global */
+@import './global/reset.css';
+@import './global/componentes.css';
+@import './global/header.css';
+@import './global/footer.css';
+
+/* Home */
+@import './home/introducao.css';
+@import './home/serviços.css';
+@import './home/grids.css';
+@import './home/depoimento.css';
+@import './home/planos.css';
+
+/* Planos */
+@import './planos/vantagens.css';
+@import './planos/perguntas.css';
+
+/* Contato */
+@import './contato/contato.css';
